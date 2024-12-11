@@ -1,6 +1,6 @@
 # Simple Todo App
 
-A simple todo app 📝 built in Django and React. 
+A simple todo app 📝 built in Django Rest Framework and React. 
 
 User can:
 - Add a task.
